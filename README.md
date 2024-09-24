@@ -1,2 +1,2 @@
 # Encrypto
- 
+ Data encryption tool.
